@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ExpenseTrackerApp</h1>
+  <h1>AuthApp</h1>
   <p>
   React Native - User Authentication
   </p>
