@@ -2,14 +2,14 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { StatusBar } from "expo-status-bar";
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import AppLoading from "expo-app-loading";
+import * as SplashScreen from "expo-splash-screen";
 
 import LoginScreen from "./screens/LoginScreen";
 import SignupScreen from "./screens/SignupScreen";
 import WelcomeScreen from "./screens/WelcomeScreen";
 import { Colors } from "./constants/styles";
 import AuthContextProvider, { AuthContext } from "./store/auth-context";
-import { useContext, useEffect, useState } from "react";
+import { useContext, useEffect, useState, useCallback } from "react";
 import IconButton from "./components/ui/IconButton";
 
 const Stack = createNativeStackNavigator();
@@ -68,27 +68,35 @@ function Navigation() {
 }
 
 function Root() {
-  const [isTryinLogin, setIsTryinLogin] = useState(true);
+  const [appIsReady, setAppIsReady] = useState(false);
   const authCtx = useContext(AuthContext);
 
   useEffect(() => {
     async function fetchToken() {
+      SplashScreen.preventAutoHideAsync();
       const storedToken = await AsyncStorage.getItem("token");
 
       if (storedToken) {
         authCtx.authenticate(storedToken);
       }
-      setIsTryinLogin(false);
+      setAppIsReady(true);
+      SplashScreen.hideAsync();
     }
 
     fetchToken();
   }, []);
 
-  if (isTryinLogin) {
-    return <AppLoading />;
+  const onLayoutRootView = useCallback(async () => {
+    if (appIsReady) {
+      await SplashScreen.hideAsync();
+    }
+  }, [appIsReady]);
+
+  if (!appIsReady) {
+    return null;
   }
 
-  return <Navigation />;
+  return <Navigation onLayout={onLayoutRootView} />;
 }
 
 export default function App() {
