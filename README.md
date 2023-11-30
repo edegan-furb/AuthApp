@@ -23,7 +23,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase " width="45" height="45"/>&nbsp;
 </p>
 <h2 align="center">💻 Screens</h2>
-  <h3 align="center"> Login Signup Welcome</h3>
+  <h3 align="space-between"> Login Signup Welcome</h3>
 <p>
   <a>
     <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372476.png" alt="Login" title="Login Screen" height="400" width="200">
