@@ -31,7 +31,7 @@
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>ReactNative
+      <br>Native
     </td>
     <td align="center" width="96">
       <a>
