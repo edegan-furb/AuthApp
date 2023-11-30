@@ -25,15 +25,15 @@
 <h2 align="center">💻 Screens</h2>
 <p>
   <a>
-    <h3>Login</h3>
+    Login
     <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372476.png" alt="Login" title="Login Screen" height="400" width="200">
   </a>
   <a>
-     <h3>Signup</h3>
+     Signup
     <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372485.png" alt="Signup" title="Signup Screen" height="400" width="200">
   </a>
   <a>
-     <h3>Welcome</h3>
+     Welcome
     <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372512.png" alt="Welcome" title="Welcome Screen" height="400" width="200">
   </a>
 </p>
