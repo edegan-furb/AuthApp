@@ -22,4 +22,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript " width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase " width="45" height="45"/>&nbsp;
 </p>
+<h2>💻 Screens</h2>
+
+[![Product Name Screen Shot][login-screen]](https://example.com)
+  
 </div>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[login-screen]: https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372476.png
+[signup-screen]: https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372485.png
+[welcome-screen]: https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372512.png
+
