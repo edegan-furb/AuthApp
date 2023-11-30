@@ -24,7 +24,7 @@
 
 >Tools, languages, and other things used.
 
-<p>
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactNative" alt="ReactNative " width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript " width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase " width="45" height="45"/>&nbsp;
@@ -34,7 +34,7 @@
 
 > Login, Signup and Welcome Screens
 
-<p>
+<p align="center">
   <a>
     <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372476.png" alt="Login" title="Login Screen" height="400" width="200">
   </a>
