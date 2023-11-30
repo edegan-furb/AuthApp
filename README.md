@@ -25,6 +25,7 @@
 <h2 align="center">💻 Screens</h2>
 <p>
   <a>
+    <h3>Login</h3>
     <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372476.png" alt="Login" title="Login Screen" height="400" width="200">
   </a>
   <a>
