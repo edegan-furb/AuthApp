@@ -19,6 +19,7 @@
 </p>
   
 <h2 align="left">🛠️ Tech</h2>
+>Tools, languages, and other things used.
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactNative" alt="ReactNative " width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript " width="45" height="45"/>&nbsp;
@@ -26,6 +27,7 @@
 </p>
 
 <h2 align="left">💻 Screens</h2>
+> Login, Signup and Welcome Screens
 <p>
   <a>
     <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372476.png" alt="Login" title="Login Screen" height="400" width="200">
@@ -40,9 +42,4 @@
   
 </div>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[login-screen]: https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372476.png
-[signup-screen]: https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372485.png
-[welcome-screen]: https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372512.png
 
