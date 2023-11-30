@@ -28,7 +28,7 @@
 >Tools, languages, and other things used.
 
 
-<table align="left">
+<table align="center">
   <tr align="center">
     <td align="center" width="96">
       <a>
