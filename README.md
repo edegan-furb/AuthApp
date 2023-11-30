@@ -17,9 +17,9 @@
 
 <h2 align="left">ℹ️ About App</h2>
 
-- 🔹 React Native.
-- 🔸 Firebase Authentication (Email/Password).
-- 🔹 Firebase Realtime Database.
+🔹 React Native.
+🔸 Firebase Authentication (Email/Password).
+🔹 Firebase Realtime Database.
 
 
   
