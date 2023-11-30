@@ -23,8 +23,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase " width="45" height="45"/>&nbsp;
 </p>
 <h2>💻 Screens</h2>
-
-[![Product Name Screen Shot][login-screen]](https://example.com)
+<p>
+  <a>
+    <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372476.png" alt="Login" title="Login Screen">
+  </a>
+</p>
   
 </div>
 
