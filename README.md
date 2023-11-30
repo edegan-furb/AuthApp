@@ -19,7 +19,7 @@
 
 
 <h2 align="left">ℹ️ About App</h2>
-<div align="center">
+<div align="left">
 🔹 React Native. </br>
 🔸 Firebase Authentication (Email/Password).</br>
 🔹 Firebase Realtime Database.</br>
