@@ -1,4 +1,4 @@
-<h2 align="left">AuthApp</h2>
+<h2 align="center">AuthApp</h2>
 
 <p align="center"
 <a href="https://github.com/edegan-furb/AuthApp/graphs/contributors">
