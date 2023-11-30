@@ -17,6 +17,8 @@
     <img src="https://img.shields.io/github/stars/edegan-furb/AuthApp" alt="stars" />
   </a>
 </p>
+
+</div>
   
 <h2 align="left">🛠️ Tech</h2>
 
@@ -44,6 +46,5 @@
   </a>
 </p>
   
-</div>
 
 
