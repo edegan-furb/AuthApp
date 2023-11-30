@@ -1,8 +1,3 @@
-<div align="center">
-  <h1>AuthApp</h1>
-  
-</div>
-
 <h2 align="left">ℹ️ About App</h2>
 
 <a href="https://github.com/edegan-furb/AuthApp/graphs/contributors">
@@ -17,6 +12,7 @@
   <a href="https://github.com/edegan-furb/AuthApp/stargazers">
     <img src="https://img.shields.io/github/stars/edegan-furb/AuthApp" alt="stars" />
   </a>
+  </br>
 
 🔹 React Native. </br>
 🔸 Firebase Authentication (Email/Password).</br>
