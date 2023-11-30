@@ -27,7 +27,7 @@
 
 >Tools, languages, and other things used.
 
-
+<a align="left">
 <table align="center">
   <tr align="center">
     <td align="center" width="96">
@@ -50,6 +50,7 @@
     </td>
   </tr>
 </table>
+</a>
 
 <h2 align="left">💻 Screens</h2>
 
