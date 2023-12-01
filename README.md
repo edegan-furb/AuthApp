@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-<h4 align="center">This project is designed to practice, with the primary focus on implementing user authentication features using Firebase.</h4>
+<h4 align="center">This project is designed to practice user authentication features.</h4>
 
 <p align="center"
 <a href="https://github.com/edegan-furb/AuthApp/graphs/contributors">
