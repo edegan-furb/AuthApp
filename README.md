@@ -6,6 +6,8 @@
   <br>
 </h1>
 
+<h4 align="center">This project is designed to practice, with the primary focus on implementing user authentication features using Firebase.</h4>
+
 <p align="center"
 <a href="https://github.com/edegan-furb/AuthApp/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/edegan-furb/AuthApp" alt="contributors" />
