@@ -52,32 +52,11 @@ $ npx expo start
 
 
   
-<h2 align="left">🛠️ Tech</h2>
+## Built with 
 
->Tools, languages, and other things used.
-
-<table align="center">
-  <tr align="center">
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Native
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>javascript
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Firebase
-    </td>
-  </tr>
-</table>
+- [React-Native](https://reactnative.dev/) -  Framework for making apps for Cross-platform mobile devices.
+- [Firebase](https://firebase.google.com/) - App development platform that helps you build apps.
+- [Expo](https://expo.dev/) - Platform for making universal native apps for Android, iOS, and the web.
 
 <h2 align="left">💻 Screens</h2>
 
