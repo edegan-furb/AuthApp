@@ -71,6 +71,7 @@ $ npx expo start
     <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372512.png" alt="Welcome" title="Welcome Screen" height="400" width="200">
   </a>
 </p>
+</p>
   
 
 
