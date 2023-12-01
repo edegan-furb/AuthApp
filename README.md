@@ -5,8 +5,8 @@
 
 <h4 align="center">This Project is Designed to Practice User Authentication Features.</h4>
 
-<p align="center"
-<a href="https://github.com/edegan-furb/AuthApp/graphs/contributors">
+<p align="center">
+  <a href="https://github.com/edegan-furb/AuthApp/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/edegan-furb/AuthApp" alt="contributors" />
   </a>
   <a href="">
