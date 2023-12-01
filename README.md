@@ -1,4 +1,19 @@
 # AuthApp
+ </p>
+  <p>
+  <a href="https://github.com/edegan-furb/AuthApp/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/edegan-furb/AuthApp" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/edegan-furb/AuthApp" alt="last update" />
+  </a>
+  <a href="https://github.com/edegan-furb/AuthApp/network/members">
+    <img src="https://img.shields.io/github/forks/edegan-furb/AuthApp" alt="forks" />
+  </a>
+  <a href="https://github.com/edegan-furb/AuthApp/stargazers">
+    <img src="https://img.shields.io/github/stars/edegan-furb/AuthApp" alt="stars" />
+  </a>
+</p>
 <table>
 <tr>
 <td>
