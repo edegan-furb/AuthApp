@@ -42,23 +42,13 @@ $ npx expo start
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-
-<h2 align="left">ℹ️ About App</h2>
-<div align="left">
-🔹 React Native. </br>
-🔸 Firebase Authentication (Email/Password).</br>
-🔹 Firebase Realtime Database.</br>
-</div>
-
-
-  
 ## Built with 
 
 - [React-Native](https://reactnative.dev/) -  Framework for making apps for Cross-platform mobile devices.
 - [Firebase](https://firebase.google.com/) - App development platform that helps you build apps.
 - [Expo](https://expo.dev/) - Platform for making universal native apps for Android, iOS, and the web.
 
-<h2 align="left">💻 Screens</h2>
+## Screens
 
 > Login, Signup and Welcome Screens
 
