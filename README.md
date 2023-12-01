@@ -1,7 +1,4 @@
 <h1 align="center">
-  <br>
-  <a"><img src="https://github.com/edegan-furb.png" alt="AuthApp" width="200"></a>
-  <br>
   AuthApp
   <br>
 </h1>
