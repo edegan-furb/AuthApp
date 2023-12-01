@@ -54,13 +54,13 @@ $ npx expo start
 
 <p align="center">
   <a>
-    <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372476.png" alt="Login" title="Login Screen" height="400" width="200">
+    <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372476.png" alt="Login" title="Login Screen" height="500" width="250">
   </a>
   <a>
-    <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372485.png" alt="Signup" title="Signup Screen" height="400" width="200">
+    <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372485.png" alt="Signup" title="Signup Screen" height="500" width="250">
   </a>
   <a>
-    <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372512.png" alt="Welcome" title="Welcome Screen" height="400" width="200">
+    <img src="https://github.com/edegan-furb/AuthApp/blob/main/assets/Screenshot_1701372512.png" alt="Welcome" title="Welcome Screen" height="500" width="250">
   </a>
 </p>
   
