@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-<h4 align="center">This project is designed to practice user authentication features.</h4>
+<h4 align="center">This Project is Designed to Practice User Authentication Features.</h4>
 
 <p align="center"
 <a href="https://github.com/edegan-furb/AuthApp/graphs/contributors">
