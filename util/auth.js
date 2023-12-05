@@ -1,20 +1,37 @@
-import axios from "axios";
+import app from "./firebaseConfig";
+import {
+  getAuth,
+  createUserWithEmailAndPassword,
+  signInWithEmailAndPassword,
+} from "firebase/auth";
 
-const API_KEY = "";
+const auth = getAuth(app);
 
 async function authenticate(mode, email, password) {
-  const url = `https://identitytoolkit.googleapis.com/v1/accounts:${mode}?key=${API_KEY}`;
-
-  const response = await axios.post(url, {
-    //displayName: "teste",
-    email: email,
-    password: password,
-    returnSecureToken: true,
-  });
-  //console.log(response.data);
-
-  const token = response.data.idToken;
-  return token;
+  try {
+    if (mode === "signUp") {
+      const userCredential = await createUserWithEmailAndPassword(
+        auth,
+        email,
+        password
+      );
+      const token = await userCredential.user.getIdToken();
+      return token;
+    } else if (mode === "signInWithPassword") {
+      const userCredential = await signInWithEmailAndPassword(
+        auth,
+        email,
+        password
+      );
+      const token = await userCredential.user.getIdToken();
+      return token;
+    } else {
+      throw new Error("Invalid authentication mode");
+    }
+  } catch (error) {
+    console.error("Authentication Error:", error.message);
+    throw error;
+  }
 }
 
 export function createUser(email, password) {

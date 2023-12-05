@@ -11,15 +11,10 @@ function WelcomeScreen() {
   const token = authCtx.token;
 
   useEffect(() => {
-    axios
-      .get(
-        "https://authapp-212ba-default-rtdb.firebaseio.com//message.json?auth=" +
-          token
-      )
-      .then((response) => {
-        //console.log("protected message = " + response.data);
-        setFetchedMesssage(response.data);
-      });
+    axios.get("URL/message.json?auth=" + token).then((response) => {
+      //console.log("protected message = " + response.data);
+      setFetchedMesssage(response.data);
+    });
   }, [token]);
 
   return (
